@@ -1,0 +1,9 @@
+
+numbers = (input("enter numbers"))
+average= sum(numbers)/len(numbers)
+print (average)
+amount = float(input("enter the amount:"))
+if amount>average:
+  amount = amount-(amount*0.01)
+else:
+  amount = amount
