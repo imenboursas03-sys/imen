@@ -1,0 +1,12 @@
+
+nom = str(input("enter the username:"))
+password = input("enter your password:")
+compteur = 0
+while compteur<3:
+  for i in nom and password :
+    nom != IMENE
+    password !=2004
+compteur = compteur+1
+print("welcome")
+
+
